@@ -26,3 +26,21 @@
 - 사용자ID를 저장 (쿠키에 저장)
 - 비밀번호 체크를 서버에 요청 (토큰으로 보내자)
 - 결국, 로그인을 성공시키자.
+# 07월 30일 수업내용
+1. 저번주 원격 못한 친구들 fuck
+https://gitbub.com/dukyoung.highschool/lecture_20240723.git
+1. 카카오톡 클라이언트 만들것
+  -
+  -
+  -
+  -
+  - tailwindcss 설치
+    - npm install -D tailwindcss
+    - npx tailwindcss init
+    - tailwind.config.js "./src/**/*.{html,js}"
+    - src/index.css 맨위코드에 삽입
+  - React Router 설치
+    - npm install react-router-dom
+  - visual studio 확장팩 설치
+    - Tailwind CSS intellisense
+    - ES7 react/Redux/React-Native snippets
